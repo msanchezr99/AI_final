@@ -14,7 +14,7 @@ This project demonstrates how to:
 
 ## 📁 Project Structure
 
-Final_IA_version_gpt/
+Final_IA_version_gpt/<br>
 ├── train.csv                 # Dataset: FEN, best_move<br>
 ├── jugadas/                 # Generated board images<br>
 ├── predictions.csv          # GPT-4o predictions<br>
