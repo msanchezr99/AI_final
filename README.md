@@ -38,11 +38,6 @@ Final_IA_version_gpt/<br>
 
 ---
 
-## Video
-[Link to the video](https://eafit-my.sharepoint.com/personal/jmramirezg_eafit_edu_co/_layouts/15/stream.aspx?id=%2Fpersonal%2Fjmramirezg%5Feafit%5Fedu%5Fco%2FDocuments%2FGrabaciones%2FCall%20with%20Martin%20and%201%20other%2D20250601%5F143542%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E786c206e%2D2e93%2D4686%2Daa43%2D7eb69d87817a)
-
----
-
 ### Credits
 
 Group formed by
