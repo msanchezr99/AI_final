@@ -41,7 +41,7 @@ Final_IA_version_gpt/<br>
 ### Credits
 
 Group formed by
-José Manuel Ramírez,
-Martín Sánchez,
-Sebastián Amaya
 
+Martín Sánchez,
+Sebastian Amaya,
+José Ramírez.
