@@ -15,11 +15,11 @@ This project demonstrates how to:
 ## 📁 Project Structure
 
 Final_IA_version_gpt/
-├── train.csv                 # Dataset: FEN, best_move
-├── jugadas/                 # Generated board images
-├── predictions.csv          # GPT-4o predictions
-├── chess_move_predictor.ipynb  # Full pipeline
-├── README.md                # Project documentation
+├── train.csv                 # Dataset: FEN, best_move<br>
+├── jugadas/                 # Generated board images<br>
+├── predictions.csv          # GPT-4o predictions<br>
+├── chess_move_predictor.ipynb  # Full pipeline<br>
+├── README.md                # Project documentation<br>
 
 
 
