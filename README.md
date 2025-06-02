@@ -15,11 +15,13 @@ This project demonstrates how to:
 ## 📁 Project Structure
 
 Final_IA_version_gpt/<br>
-├── train.csv                 # Dataset: FEN, best_move<br>
-├── jugadas/                 # Generated board images<br>
-├── predictions.csv          # GPT-4o predictions<br>
+├── train.csv                   # Dataset: FEN, best_move<br>
+├── gemini.csv                  # Gemini 2.5 pro predictions<br>
+├── gemini_distance.csv         # Gemini predictions Levenshtein distance<br>
+├── jugadas/                    # Generated board images<br>
+├── predictions.csv             # GPT-4o predictions<br>
 ├── chess_move_predictor.ipynb  # Full pipeline<br>
-├── README.md                # Project documentation<br>
+├── README.md                   # Project documentation<br>
 
 
 
